@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# macOS
+.DS_Store
+__MACOSX/
+._*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Compressed files
+*.zip
+*.tar
+*.tar.gz
+*.tar.bz2
+*.rar
+*.7z
+
+# Large dataset files (uncomment if you want to exclude datasets)
+# dataset/
+# easy_ham/
+# hard_ham/
+# spam_2/
+
+# PDF files (uncomment if you don't want to track PDFs)
+# *.pdf
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+.venv
+env/
+venv/
+
+# Logs
+*.log
